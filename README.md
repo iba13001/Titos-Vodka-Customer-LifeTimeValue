@@ -13,7 +13,6 @@
 - Tito’s is winning in the high value stores (wholesale/club stores)
 - BG/NBD model predicts the alive probability with an accuracy of 94.8% and a risk of 5.2%
 - RFM segmentation and Customer Lifetime Value Prediction are together beneficial to plan and to evaluate marketing campaigns.
-![image](https://user-images.githubusercontent.com/21692393/114467421-85b8e080-9baf-11eb-9416-cd704be35bf9.png)
 
 
 More details on the outcome are found in the slides deck.
