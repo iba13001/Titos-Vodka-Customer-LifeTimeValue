@@ -1,4 +1,4 @@
-## General
+## Overview
 - The competition and the opportunities for Tito's Vodka are analyzed.
 - The project provides a customer segmentation using Recency-Frequency-Monetary (RFM) segmentation.
 -  Marketing plans and Market Basket Analysis for each segment are proposed.
