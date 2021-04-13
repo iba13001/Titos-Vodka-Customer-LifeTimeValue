@@ -11,7 +11,7 @@
 - Low value stores are out of the marketing analysis; they are likely out of business.
 - Medium value stores are very competitive with Hawkeye Vodka.
 - Tito’s is winning in the high value stores (wholesale/club stores)
-- BG/NBD model predicts the alive probability with an accuracy of 94.8% and a risk of 5.2%
+- Beta Geometry/Negative Binomial Distribution (BG/NBD) model predicts the alive probability with an accuracy of 94.8% and a risk of 5.2%
 - RFM segmentation and Customer Lifetime Value Prediction are together beneficial to plan and to evaluate marketing campaigns.
 
 
@@ -19,8 +19,8 @@ More details on the outcome are found in the slides deck.
 
 ## The Code
 - LiquorCleaningEDA: cotains the data cleaning, building relational databases, clustering of customers and analysis of each customer segment.
-- CLV_Prediction: contains building Beta Geometry/Negative Binomial Distribution (BG/NBD) model to predict the alive probability.
+- CLV_Prediction: contains building BG/NBD model to predict the alive probability.
 
 ## Data and Databases
 - This [zipped folder](https://drive.google.com/file/d/1O_puKf2dzk7nBOQDDomx5N6YObWzdrF9/view?usp=sharing) contains the data used in this project and the Sqlite databases.
-- The data is collected from https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy.
+- The data is collected from [Iowa Data Portal](https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy).
