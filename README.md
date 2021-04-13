@@ -22,5 +22,5 @@ More details on the outcome are found in the slides deck.
 - CLV_Prediction: contains building Beta Geometry/Negative Binomial Distribution (BG/NBD) model to predict the alive probability.
 
 ## Data and Databases
-The zipped folder contains the data used in this project and the Sqlite databases.
-The data is collected from https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy.
+- This [zipped folder](https://drive.google.com/file/d/1O_puKf2dzk7nBOQDDomx5N6YObWzdrF9/view?usp=sharing) contains the data used in this project and the Sqlite databases.
+- The data is collected from https://data.iowa.gov/Sales-Distribution/Iowa-Liquor-Sales/m3tr-qhgy.
