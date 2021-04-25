@@ -15,7 +15,7 @@
 - RFM segmentation and Customer Lifetime Value Prediction are together beneficial to plan and to evaluate marketing campaigns.
 
 
-More details on the outcome are found in the slides deck.
+More details on the outcome are found in the [slides deck](https://github.com/iba13001/Titos-Vodka-Market-Analysis/blob/main/TitosMarketAnalysis.pptx).
 
 ## The Code
 - LiquorCleaningEDA: cotains the data cleaning, building relational databases, clustering of customers and analysis of each customer segment.
