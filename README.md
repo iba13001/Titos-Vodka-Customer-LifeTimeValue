@@ -1,4 +1,4 @@
-# Titos Vodka Market Analysis
+# Tito's Vodka Market Analysis
 ## Overview
 - The competition and the opportunities for Tito's Vodka are analyzed.
 - The project provides a customer segmentation using Recency-Frequency-Monetary (RFM) segmentation.
